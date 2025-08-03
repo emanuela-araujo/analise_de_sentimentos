@@ -11,6 +11,6 @@ O objetivo principal do projeto Análise de Sentimentos é, por meio do Processa
 * Python
 
 ## Autora
-* Emanuela Araújo de Oliveira
+* Emanuela Araújo
 
-https://www.linkedin.com/in/emanuela-araújo-81b852219/ 
+https://www.linkedin.com/in/-emanuela-araujo/
